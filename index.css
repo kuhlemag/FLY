@@ -35,7 +35,7 @@ body{
 */
 
 .intro{
-  background-image: url("../images/life.png");
+  background-image: url("life.png");
   background-size: cover;
   background-color: #f4b847;
   background-position: center;
